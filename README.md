@@ -22,7 +22,7 @@ First paramter is choosing between using Skeletal Modelling and just Background 
 
 Second paramter is choosing between using webcam and a video in UCF101 dataset by deciding between 'cam' and 'video', respectively.
 
-Third paramter is choosing between initialing hls values thereshold automatically and non-automatically by deciding between 'auto' and 'non-automatic', respectively.
+Third paramter is choosing between initialing hls values thereshold automatically and non-automatically by deciding between 'auto' and 'non-automatic', respectively. Also, if you choose 'non-automatic', after running the code you will see a panel which has 6 trackbar for changing hls values. So, you can change the values to achieve better results for your video subsequences. 
 
 # Algorithms Description
 By reviewing [1], I have implemented a program using OpenCV in order to record camera or video sequences of UCF101 dataset and finally use Background Subtraction
