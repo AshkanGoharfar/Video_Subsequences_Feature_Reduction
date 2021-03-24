@@ -11,7 +11,7 @@ Sections headers will be used to reference the location of destination
 # How to use
 Call the Main.py
 
-Smple command is like this :
+Sample command is like this :
 
 ```bash
 $ python skeleton camera non-automatic
