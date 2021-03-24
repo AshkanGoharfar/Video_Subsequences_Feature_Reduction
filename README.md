@@ -35,5 +35,5 @@ Use Video_Sequences.txt data in Output folder for deep learning algorithms in or
 
 
 # Reference
-Serpush, F., Rezaei, M. Complex Human Action Recognition Using a Hierarchical Feature Reduction and Deep Learning-BasedMethod. SN COMPUT. SCI. 2, 94 (2021).
+[1] Serpush, F., Rezaei, M. Complex Human Action Recognition Using a Hierarchical Feature Reduction and Deep Learning-BasedMethod. SN COMPUT. SCI. 2, 94 (2021).
 https://doi.org/10.1007/s42979-021-00484-0
