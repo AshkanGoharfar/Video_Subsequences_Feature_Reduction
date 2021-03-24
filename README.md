@@ -9,7 +9,8 @@ Sections headers will be used to reference the location of destination
 
 
 # How to use
-Call the Main.py a sample command is like this ::
+Call the Main.py.
+sample command is like this :
 
 ```bash
 $ python skeleton camera non-automatic
