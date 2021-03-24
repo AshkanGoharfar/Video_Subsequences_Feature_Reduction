@@ -14,7 +14,7 @@ Call the Main.py
 Sample command is like this :
 
 ```bash
-$ python skeleton camera non-automatic
+$ python Main.py skeleton camera non-automatic
 ```
 You should pass 3 parameters which are skeleton, camera,and non-automic in this sample command, respectively. 
 
