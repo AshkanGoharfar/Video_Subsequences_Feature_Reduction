@@ -17,8 +17,11 @@ Smple command is like this :
 $ python skeleton camera non-automatic
 ```
 You should pass 3 parameters which are skeleton, camera,and non-automic in this sample command, respectively. 
+
 First paramter is choosing between using Skeletal Modelling and just Background Subtraction by deciding between 'skeleton' and 'hls', respectively.
+
 Second paramter is choosing between using webcam and a video in UCF101 dataset by deciding between 'cam' and 'video', respectively.
+
 Third paramter is choosing between initialing hls values thereshold automatically and non-automatically by deciding between 'auto' and 'non-automatic', respectively.
 
 # Algorithms Description
