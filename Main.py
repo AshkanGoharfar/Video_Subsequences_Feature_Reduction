@@ -19,5 +19,5 @@ with open('Output/Video_Sequences.txt', 'w') as filehandle:
         filehandle.write('%s\n' % str(listitem))
         counter += 1
 
-sys_argv = sys.argv
+sys_argv = str(sys.argv)
 reduce_feature(sys_argv[1], sys_argv[2], sys_argv[3])
